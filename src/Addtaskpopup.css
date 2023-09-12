@@ -1,0 +1,16 @@
+.outer {
+  width: 300px;
+  border: rgb(223, 203, 167) solid 1px;
+  padding: 10px;
+  border-radius: 10px;
+  height: 200px;
+}
+.titlePart {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 10px;
+}
+.add {
+  float: right;
+}

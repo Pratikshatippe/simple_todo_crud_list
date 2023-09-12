@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navUl {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.addTask {
+  background-color: rgb(140, 140, 240);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  width: 120px;
+}
+.labelName {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.singletask {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  border: tan solid 1px;
+}
+.singletask div {
+}
